@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="10" height="10.544" viewBox="0 0 10.00 10.54" enable-background="new 0 0 10.00 10.54" xml:space="preserve" preserveAspectRatio="none slice">
+	<path fill="#4C4C4C" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" d="M 5.01514,0.574097C 7.76807,0.574097 10,2.80597 10,5.55908C 10,8.31226 7.76807,10.5441 5.01514,10.5441C 2.26172,10.5441 0.0297852,8.31226 0.0297852,5.55908C 0.0297852,2.80597 2.26172,0.574097 5.01514,0.574097 Z "/>
+	<path fill="#101010" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" d="M 4.98486,6.10352e-005C 7.73779,6.10352e-005 9.97021,2.23187 9.97021,4.98505C 9.97021,7.73816 7.73779,9.97003 4.98486,9.97003C 2.23193,9.97003 0,7.73816 0,4.98505C 0,2.23187 2.23193,6.10352e-005 4.98486,6.10352e-005 Z "/>
+	<path fill="#333333" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" d="M 4.97754,0.483398C 7.48047,0.483398 9.50928,2.51239 9.50928,5.0152C 9.50928,7.51807 7.48047,9.54706 4.97754,9.54706C 2.47461,9.54706 0.445801,7.51807 0.445801,5.0152C 0.445801,2.51239 2.47461,0.483398 4.97754,0.483398 Z "/>
+	<radialGradient id="SVGID_Fill1_" cx="4.64746" cy="2.75824" r="3.49634" gradientUnits="userSpaceOnUse" gradientTransform="rotate(3.905548 4.647461 2.758240)">
+		<stop offset="0" stop-color="#6C6C6C" stop-opacity="1"/>
+		<stop offset="0.483333" stop-color="#686868" stop-opacity="0.501961"/>
+		<stop offset="1" stop-color="#656565" stop-opacity="0"/>
+	</radialGradient>
+	<path fill="url(#SVGID_Fill1_)" stroke-width="0.2" stroke-linejoin="round" d="M 5.18115,0.461182C 7.1709,0.461182 8.78369,1.70697 8.78369,3.24371C 8.78369,4.78052 7.1709,6.02631 5.18115,6.02631C 3.19141,6.02631 1.57813,4.78052 1.57813,3.24371C 1.57813,1.70697 3.19141,0.461182 5.18115,0.461182 Z "/>
+	<radialGradient id="SVGID_Fill2_" cx="4.8833" cy="7.97211" r="2.86967" gradientUnits="userSpaceOnUse" gradientTransform="rotate(3.905483 4.883301 7.972107)">
+		<stop offset="0" stop-color="#505050" stop-opacity="1"/>
+		<stop offset="0.483333" stop-color="#444444" stop-opacity="0.501961"/>
+		<stop offset="1" stop-color="#383838" stop-opacity="0"/>
+	</radialGradient>
+	<path fill="url(#SVGID_Fill2_)" stroke-width="0.2" stroke-linejoin="round" d="M 5.32129,6.66077C 6.95459,6.66077 8.27832,7.37195 8.27832,8.24927C 8.27832,9.12659 6.95459,9.83777 5.32129,9.83777C 3.68799,9.83777 2.36426,9.12659 2.36426,8.24927C 2.36426,7.37195 3.68799,6.66077 5.32129,6.66077 Z "/>
+</svg>

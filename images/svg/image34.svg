@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="325.998" height="20" viewBox="0 0 326.00 20.00" enable-background="new 0 0 326.00 20.00" xml:space="preserve" preserveAspectRatio="none slice">
+	<path fill="#1B1A18" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" d="M 1.01636,0.44458L 324.999,0.44458C 325.551,0.44458 325.999,0.892334 325.998,1.44458L 325.982,19C 325.981,19.5522 325.533,20 324.981,20L 0.998535,20C 0.446899,20 -0.000488281,19.5522 0,19L 0.0161133,1.44458C 0.0166016,0.892334 0.464844,0.44458 1.01636,0.44458 Z "/>
+	<linearGradient id="SVGID_Fill1_" gradientUnits="objectBoundingBox" x1="0.389632" y1="-1.10822" x2="3.88398" y2="-1.10822" gradientTransform="rotate(90.000000 0.389632 -1.108224)">
+		<stop offset="0" stop-color="#2D2D2D" stop-opacity="0.603922"/>
+		<stop offset="0.483333" stop-color="#2B2B2B" stop-opacity="0.603922"/>
+		<stop offset="1" stop-color="#2A2A2A" stop-opacity="0.603922"/>
+	</linearGradient>
+	<path fill="url(#SVGID_Fill1_)" stroke-width="0.2" stroke-linejoin="round" d="M 2.62134,0L 323.503,0C 324.054,0 324.502,0.447754 324.501,1L 324.486,17.3595C 324.486,17.912 324.038,18.3595 323.486,18.3595L 2.60461,18.3595C 2.05273,18.3595 1.6051,17.912 1.60559,17.3595L 1.62061,1C 1.62109,0.447754 2.06946,0 2.62134,0 Z "/>
+</svg>
